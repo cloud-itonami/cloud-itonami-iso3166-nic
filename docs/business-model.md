@@ -10,7 +10,7 @@
   (La Gaceta No. 83, 12 de mayo de 2025). Ley 1238 replaced the earlier
   Ley No. 737 (Sector Público) and Ley No. 801 (Municipal) regimes into
   one law. SISCAE is the electronic backbone; www.nicaraguacompra.gob.ni
-  is the public single portal (see `src/marketentry/facts.cljc`)
+  is the public single portal (see `src/marketentry/facts.cljk`)
 - Registro Público Mercantil (Sistema Nacional de Registros -- SINARE,
   Ley No. 698/Ley No. 1035) business registration -- required for legal
   personality (Art. 155: unregistered sociedades mercantiles have NO
