@@ -54,7 +54,7 @@ verify, such as PRONicaragua's own legal-creation instrument):
   procurement authority (DGCE/MHCP) that runs the rest of the pipeline
   -- a shape genuinely different from every other iso3166 sibling's
   (none of which check a required CROSS-BRANCH approval).
-- `src/statute/facts.cljc` -- general-law catalog: Ley No. 1238 itself
+- `src/statute/facts.cljk` -- general-law catalog: Ley No. 1238 itself
   (also catalogued here as an ongoing compliance statute, not just a
   market-entry gate); Ley No. 698 "Ley General de los Registros
   Públicos" as reformed by Ley No. 1035 (2020) -- Registro Público
@@ -83,7 +83,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Nicaragua:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
